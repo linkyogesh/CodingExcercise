@@ -36,7 +36,7 @@ Otherwise program will take default file specified in common.h
 ```
 ./producer
 Or
-./consumer <file1> <file2>
+./producer <file1> <file2>
 ```
 Run producer process first in one terminal and then start the consumer process in other.
 RunConsumer: use same file path as used in producer
